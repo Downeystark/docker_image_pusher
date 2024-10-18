@@ -15,7 +15,6 @@ redislabs/redisinsight
 rabbitmq
 php
 python
-java
 jenkins
 adolfintel/speedtest
 kurento/kurento-media-server
