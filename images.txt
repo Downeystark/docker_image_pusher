@@ -7,3 +7,15 @@ xhofe/alist:latest
 gdy666/lucky:latest
 jeessy/ddns-go:latest
 p3terx/ariang:latest
+mysql
+mongo
+mongo-express
+redis
+redislabs/redisinsight
+rabbitmq
+php
+python
+java
+jenkins
+adolfintel/speedtest
+kurento/kurento-media-server
