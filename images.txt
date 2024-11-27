@@ -16,3 +16,4 @@ rabbitmq
 php
 python
 adolfintel/speedtest
+gitlab/gitlab-ce:latest
